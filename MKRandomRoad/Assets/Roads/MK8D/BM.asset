@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f76f594cc13f5c4db8462fba861b6f0, type: 3}
+  m_Name: BM
+  m_EditorClassIdentifier: 
+  id: 39
+  roadName: Bosque Magico
+  image: {fileID: 2800000, guid: 4accf534ff844f842b14b31b651b0f3f, type: 3}
+  cupImg: {fileID: 2800000, guid: 4509c25412c31cc4bb1b7908c3fc6a4c, type: 3}
+  isFromDLC: 0

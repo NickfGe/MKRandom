@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f76f594cc13f5c4db8462fba861b6f0, type: 3}
+  m_Name: VY
+  m_EditorClassIdentifier: 
+  id: 28
+  roadName: Valle de Yoshi
+  image: {fileID: 2800000, guid: 01ec8677e3cc513438ce2dc2ecceb8ba, type: 3}
+  cupImg: {fileID: 2800000, guid: 685d240cae019cb46bcf75e619452c5c, type: 3}
+  isFromDLC: 0
